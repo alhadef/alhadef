@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Bruno Alhadef. Sou apaixonado por tecnologia. Atualmente, estou estudando Programação, e aqui pretendo compartilhar alguns dos projetos que irei criar. Sinta-se à vontade pra acompanhar.
+Olá, me chamo Bruno Alhadef. Sou apaixonado por tecnologia. Atualmente, estou estudando Programação, e aqui pretendo compartilhar alguns dos projetos que irei criar. Sinta-se à vontade pra acompanhar.
 
 <p align="left">
        <a href="https://github.com/alhadef?tab=repositories&sort=stargazers">
