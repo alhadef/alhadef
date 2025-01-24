@@ -60,7 +60,7 @@ Olá, me chamo Bruno Alhadef. Sou apaixonado por tecnologia. Atualmente, estou e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhadef&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhadef&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
 
 </p>
